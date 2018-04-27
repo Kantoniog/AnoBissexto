@@ -1,0 +1,10 @@
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.deps.json
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.runtimeconfig.json
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.runtimeconfig.dev.json
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.dll
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.pdb
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.AssemblyInfo.cs
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.dll
+C:\Users\marco.agjunior2\logica\tarefa\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.pdb
